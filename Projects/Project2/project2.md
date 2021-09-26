@@ -27,7 +27,7 @@ You will be using data from a very useful database on baseball teams, players an
 
 You can read more about the dataset here: [http://seanlahman.com/files/database/readme2014.txt](http://seanlahman.com/files/database/readme2014.txt).
 
-You can download the `sqlite` file directly from github at [https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2014.sqlite](https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2014.sqlite). We have also provided a [database](hhttps://github.com/nayeemmz/cmsc320-fall21/tree/main/Projects/Project2) file with this project.
+You can download the `sqlite` file directly from github at [https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2014.sqlite](https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2014.sqlite). We have also provided a [database](https://github.com/nayeemmz/cmsc320-fall21/tree/main/Projects/Project2) file with this project.
 
 You will be accessing the `sqlite` database in python using the [sqlite package](https://docs.python.org/2/library/sqlite3.html). This package provides a straightforward interface to extract data from `sqlite` databases using standard SQL commands.
 
