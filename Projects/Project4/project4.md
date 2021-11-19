@@ -86,7 +86,10 @@ plt.plot(gen_data_x, dummy)</code></pre>
 
 <div id="handing-in" class="section level2">
 
-<h3>Handing in:</h3>
+## Submission
+
+Prepare a Jupyter notebook that includes answers for each Problem:
+
 
 <ol style="list-style-type: decimal">
 <li><p>For Problems 1 and 3 include your code in the writeup. Make sure they are commented and that the code is readable in your final writeup (e.g., check line widths).</p></li>
@@ -101,3 +104,9 @@ plt.plot(gen_data_x, dummy)</code></pre>
 <li><p>Include all code required to perform the 10-fold cross-validation procedure on your three algorithms.</p></li>
 <li><p>Writeup the result of your 10-fold cross-validation procedure. Make sure to report the 10-fold CV estimate of each of the algorithms.</p></li>
 </ol>
+
+Submit to ELMS at Project 4 Assignment Submission and a .pdf to Gradescope.
+
+## Group work
+
+You are encouraged to work in small groups, but you must prepare your own writeup and submit it. Include the names of the peers who you worked with in the writeup.
